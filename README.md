@@ -1,5 +1,5 @@
 # traccar-mod
-If you want a modified web traccar, contact me. josuelmm92@gmail.com
+If you want a modified web traccar, send notifications by whatsapp, contact me. josuelmm92@gmail.com
 
 List Mod:
 - Design with color and logo
